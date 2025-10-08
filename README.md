@@ -15,3 +15,8 @@
 | HackerEarth DSA Improvement Plan | Seven actionable steps to systematically sharpen DSA skills for interviews. | https://www.hackerearth.com/blog/7-steps-to-improve-your-data-structure-and-algorithm-skills |
 | 14 Coding Interview Patterns | Overview of recurring problem-solving patterns to ace coding interviews. | https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed |
 | Big-O Cheat Sheet | Handy reference chart of data structure and algorithm complexities for quick review. | https://www.bigocheatsheet.com/ |
+| Errichto | Contest strategy breakdowns and live solving sessions from a top competitive programmer. | https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw |
+| William Lin | High-level problem-solving tutorials and Codeforces contest walkthroughs. | https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg |
+| Tushar Roy | In-depth algorithm explanations with step-by-step code walkthroughs. | https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q |
+| Code DP Patterns Playlist | Structured dynamic programming playlist covering patterns and practice problems. | https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ |
+
