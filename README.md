@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xDevSphere/devsphere-website/refs/heads/main/public/devsphereLogo.png" alt="Devsphere Logo" width="120" />
+  <img src="https://iili.io/KP9H311.png" alt="Devsphere Logo" width="240" />
 </p>
 
 <h1 align="center">DSA and Interview Prep Resources</h1>
