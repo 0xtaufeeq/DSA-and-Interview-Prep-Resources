@@ -11,16 +11,9 @@
 
 ---
 
-## 📘 Overview
+## Resources
 
-This collection brings together some of the best learning materials for **Data Structures, Algorithms, and Interview Preparation**.  
-Each link below is handpicked for clarity, practicality, and long-term learning value.
-
----
-
-## 🔗 Resources
-
-| 🌐 Resource | 🧩 Description | 🔗 Link |
+| Resource | Description | Link |
 | :--- | :--- | :---: |
 | **CSES Problem Set** | Curated algorithmic problems across many topics with an online judge for practice. | [Open](https://cses.fi/problemset/) |
 | **cp-algorithms** | Detailed explanations of classic algorithms and data structures with reference implementations. | [Open](https://cp-algorithms.com/) |
